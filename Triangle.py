@@ -7,6 +7,9 @@ The primary goal of this file is to demonstrate a simple python program to class
 
 @author: jrr
 @author: rk
+
+@author: Jordan Fernandes
+I pledge my honor that I have abided by the Stevens Honor System. - Jordan Fernandes
 """
 
 def classifyTriangle(a,b,c):
